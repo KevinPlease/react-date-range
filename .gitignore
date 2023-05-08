@@ -5,5 +5,4 @@ node_modules/
 *.orig
 lib/
 NOTES.txt
-dist/
 styleguide/
